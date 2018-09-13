@@ -1,4 +1,4 @@
-# ipmi simjulator MEMO
+# ipmi simulator MEMO
 
 
 Discussion: Having issues with ipmitool sol activate towards ipmi_sim
@@ -26,6 +26,7 @@ https://github.com/InfraSIM/infrasim-network
 
 vRackSystem is a tool to easily build a virtual Rack. Please follow below document to setup the vracksystem server.
 https://github.com/InfraSIM/vracksystem
+
 
 ## netbox : IPAM
 https://github.com/digitalocean/netbox/releases
