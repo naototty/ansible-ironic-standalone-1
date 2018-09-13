@@ -1,7 +1,7 @@
 # ipmi simulator MEMO
 
 
-| Discussion: Having issues with ipmitool sol activate towards ipmi_sim  |
+| Discussion: Having issues with ipmitool sol activate towards ipmi_sim  | \
 http://openipmi-developer.narkive.com/7WRyU4Ub/having-issues-with-ipmitool-sol-activate-towards-ipmi-sim  |
 
 ## InfraSIM
