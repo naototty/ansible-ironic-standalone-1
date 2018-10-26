@@ -32,7 +32,7 @@ by creating every piece of software used in this project!
 This is a screenshot of [Ironic WebClient](https://github.com/openstack/ironic-webclient)
 included with the role `webclient`.
 
-![Ironic WebClient](https://github.com/jriguera/ansible-ironic-standalone/blob/master/doc/ironic_webclient.png)
+![Ironic WebClient](https://github.com/naototty/ansible-ironic-standalone/blob/master/doc/ironic_webclient.png)
 
 
 # Requirements
